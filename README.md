@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **githubwkk/githubwkk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h3 align="center" style="color:gray">A passionate frontend developer from China</h3>
+<h2 align="center" style="color:gray">A passionate frontend developer from China</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
