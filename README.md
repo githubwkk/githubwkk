@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<h2 align="center" style="color:gray">A passionate frontend developer from China</h3>
+<h2 align="center" style="color:gray">A passionate developer from China</h3>
 
 
 <h3 align="left">Languages and Tools:</h3>
